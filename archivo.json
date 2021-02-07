@@ -1,0 +1,8 @@
+﻿[
+  {
+    "objeto": "Robot",
+    "cuantosPasos": 5,
+    "tipoAnimacion": 1,
+    "moviendo": true
+  }
+]
